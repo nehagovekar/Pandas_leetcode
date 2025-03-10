@@ -44,21 +44,6 @@ This repository contains my solutions to the 30 Pandas problems from LeetCode's 
 
 </div>
 
-## 📊 Repository Structure
-
-```
-pandas_challenge/
-├── README.md              # This adorable file
-├── solutions/             # Solution files for each problem
-│   ├── easy/              # Easy difficulty solutions
-│   ├── medium/            # Medium difficulty solutions
-│   └── hard/              # Hard difficulty solutions
-├── notes/                 # Personal notes on Pandas concepts
-│   ├── data_cleaning.md   # Notes on cleaning techniques
-│   ├── reshaping.md       # Notes on pivot, melt, etc.
-│   └── cheat_sheet.md     # Quick reference for Pandas
-└── resources/             # Helpful Pandas resources
-```
 
 ## 🌟 Key Learning Goals
 
@@ -76,18 +61,6 @@ Have suggestions or alternative solutions? Feel free to open an issue or submit 
 
 Let's learn Pandas together and become data wrangling experts! 🐼💖
 
-<div align="center">
-  
-[![GitHub stars](https://img.shields.io/github/stars/your-username/pandas_challenge?style=social)](https://github.com/your-username/pandas_challenge)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/pandas_challenge?style=social)](https://github.com/your-username/pandas_challenge/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/your-username/pandas_challenge?style=social)](https://github.com/your-username/pandas_challenge)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=ffcad4&style=flat-square&label=Repository+Views" alt="Repository views counter"/>
   
   <h3>✨ Happy Pandas Data Wrangling! ✨</h3>
 </div>
